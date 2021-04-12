@@ -10,5 +10,8 @@ PMF的目标是：假设有N个用户和M个物品，那么就形成了一个N*M
 
 # 运行结果
 
-![](pmf.jpg)
+![](predict.png)
 
+![](train.png)
+
+![](pmf.png)
